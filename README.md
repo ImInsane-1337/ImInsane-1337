@@ -1,9 +1,5 @@
 <h1 align="center">Привет, я ImInsane</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Vibecoding+in+C%23;Python+for+fun;Code+in+flow+state+%E2%9C%A8" alt="Typing SVG" />
-</p>
-
 ### Обо мне
 
 - **Основной фокус:** Активно учу **C#**. Погружаюсь в экосистему .NET и кайфую от процесса.
@@ -26,7 +22,8 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-FFA500?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+    <img src="https://img.shields.io/badge/Gemini-AAAAFF?style=for-the-badge&logo=gemini&logoColor=white" alt="Gemini" />
 </p>
 
 ---
