@@ -1,10 +1,10 @@
-<h1 align="center">Привет, я ImInsane</h1>
+<h1 align="center">Привет, я ImInsane 👋</h1>
 
 ### Обо мне
 
 - **Основной фокус:** Активно учу **C#**. Погружаюсь в экосистему .NET и кайфую от процесса.
 - **Для души:** На любительском уровне балуюсь с **Python** (автоматизация, скрипты и пет-проекты чисто по фану).
--  **Мой личный блог:** Веду ТГ-канал, где делюсь мыслями, проектами и щитпостом.
+- **Мой личный блог:** Веду ТГ-канал, где делюсь мыслями, проектами и щитпостом.
 
 ---
 
@@ -17,13 +17,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-**Инструменты:**
+**Инструменты и ИИ:**
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Claude-FFA500?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-    <img src="https://img.shields.io/badge/Gemini-AAAAFF?style=for-the-badge&logo=gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
 </p>
 
 ---
@@ -31,19 +31,17 @@
 ### Моя статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImInsane-1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ImInsane-1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImInsane-1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ImInsane-1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
 </div>
 
 ---
 
 ### Связь со мной
 
-Личный телеграмм канал:
+Залетай в мой Telegram-канал:
 
 <a href="https://t.me/insane_public">
   <img src="https://img.shields.io/badge/Telegram--Канал-@insane__public-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
 </a>
-
-<br/>
