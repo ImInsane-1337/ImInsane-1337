@@ -1,21 +1,19 @@
 # ImInsane
 
-Разработчик из России. Специализируюсь на изучении C#/.NET, пишу автоматизацию на Python и делюсь практическим опытом.
+Разработчик из России, обычно работаю на C#/Python
 
 ## Направления деятельности
 
-* **C# / .NET** — основной фокус обучения. Разбираюсь в архитектуре платформы, экосистеме .NET и пишу прикладной софт.
-* **Python** — автоматизация рутинных задач, парсеры, телеграм-боты и небольшие скрипты для личного пользования.
-* **Блог** — Сплошной трешпостинг.
+* **C# / .NET** - основной фокус обучения. Разбираюсь в архитектуре платформы, экосистеме .NET и пишу прикладной софт.
+* **Python** - автоматизация рутинных задач, парсеры, телеграм-боты и небольшие скрипты для личного пользования.
 
 ---
 
 ## Стек технологий
 
-**Языки и платформы:**
+**Языки (по большей части):**
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
@@ -37,9 +35,7 @@
 
 ---
 
-## Контакты
-
-Telegram-канал с авторскими заметками:
+## Мой телеграмм-паблик:
 <p align="left">
   <a href="https://t.me/insane_public" target="_blank">
     <img src="https://img.shields.io/badge/Telegram--Канал-@insane__public-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Channel" />
